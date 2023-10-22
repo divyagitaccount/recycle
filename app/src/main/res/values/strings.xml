@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">recycle</string>
+    <string name="recyclerview">recyclerview!</string>
+    <string name="december">december</string>
+    <string name="november">november</string>
+    <string name="october">october</string>
+    <string name="september">september</string>
+    <string name="august">august</string>
+    <string name="july">july</string>
+    <string name="june">june</string>
+    <string name="may">may</string>
+    <string name="april">april</string>
+    <string name="march">march</string>
+    <string name="febrauary">febrauary</string>
+    <string name="january">january</string>
+    <string name="january_card_desc" />
+    <string name="january_label" />
+    <string name="february_card_desc" />
+    <string name="february" />
+    <string name="february_label" />
+</resources>

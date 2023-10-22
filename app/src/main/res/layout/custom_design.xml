@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="50dp"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="15dp"
+        app:cardBackgroundColor="@color/purple_500"
+        android:contentDescription="@string/january_card_desc">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/january"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:contentDescription="@string/january_label"/>
+    </androidx.cardview.widget.CardView>
+
+
+    <!-- Add CardViews and TextViews for other months with content descriptions and labels -->
+
+</LinearLayout>
